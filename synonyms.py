@@ -1,4 +1,4 @@
 from PyDictionary import PyDictionary as dict
 
-def syn(word):
+def synom(word):
     return dict.synonym(word)

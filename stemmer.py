@@ -6,7 +6,7 @@ ps = PorterStemmer()
 def stemSent(sentence):
     words = word_tokenize(sentence)
     stem_token = stemToken(words)
-    retStr = "".join(str(x) for x in stem_token)
+    retStr = "".join(" " + str(x) for x in stem_token)
     return retStr
 
 def stemToken(words):
