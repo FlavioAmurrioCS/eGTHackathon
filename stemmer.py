@@ -15,8 +15,14 @@ def stemToken(words):
         ret.append(ps.stem(word))
     return ret
 
-def remSpecSent(words_token):
+def remSpec(words_token):
+    ret = []
     for word in words_token:
-        word = ''.join(e for e in word if e.isalnum())
-    return words_token
-    
+        temp = remSp(word)
+        length = len(temp)
+        if length > 0:
+            ret.append(temp)            
+    return ret
+
+def remSp(word):
+    return ''.join(e for e in word if e.isalpha())
