@@ -7,6 +7,10 @@ from PyDictionary import PyDictionary as dict
 
 from nltk.stem import PorterStemmer
 
+from time import time
+
+t0 = time()
+
 ############################### Translation ###############################
 translator = Translator()
 
@@ -53,7 +57,7 @@ def remSpec(words_token):
     for word in words_token:
         temp = remSp(word)
         length = len(temp)
-        if length > 0:
+        if length > 1:
             ret.append(temp)            
     return ret
 
@@ -62,7 +66,7 @@ def remSpec(words_token):
 comment = "This book is such a life saver.  It has been so helpful to be able to go back to track trends, answer pediatrician questions, or communicate with each other when you are up at different times of the night with a newborn.  I think it is one of those things that everyone should be required to have before they leave the hospital.  We went through all the pages of the newborn version, then moved to the infant version, and will finish up the second infant book (third total) right as our baby turns 1.  See other things that are must haves for baby at [...]"
 
 def clean(sentence):
-    # sentence = translate(sentence)
+    sentence = translate(sentence)
     sentence = str.lower(sentence)
     words = word_tokenize(sentence)
     words = stopRemToken(words)
@@ -80,3 +84,9 @@ def readfile(filename):
 
 
 readfile('file.txt')
+
+t1 = time()
+diff = t1 - t0
+
+print("this took")
+print(diff)
