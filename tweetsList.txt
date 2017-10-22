@@ -163,6 +163,8 @@ _eglobaltech,uswcc<###>b'RT @CrisAYoung: Wayne McDonald, Director , Office of Sm
 _eglobaltech,uswcc<###>b"RT @JLANSolutions: Denise Benjamin Sirmons, Dir @EPA Office of Small &amp; Disadvantaged Business Utilization @uswcc Nat'l #SmallBiz Federal Co"
 _eglobaltech,uswcc<###>b"RT @CrisAYoung: Sherry Kobus from Defense Contract Audit Agency outlines the agency's program for #Small business members @AmericanSBCC @US"
 _eglobaltech,uswcc<###>b'RT @CrisAYoung: .@EPA #SmallBusiness Director sharing her knowledge with @AmericanSBCC &amp; @USWCC members https://t.co/8Vw11OGtXK'
+_eglobaltech,Sec_Cyber<###>b'Work together to address Internet addiction and #cyber safety, says Rosmah https://t.co/mthcS8C5O7'
+_eglobaltech,Sec_Cyber<###>b'Michelle Singletary: Data #breaches no laughing matter https://t.co/1mebyONJIw'
 _eglobaltech,Sec_Cyber<###>b'Watch What You Play! How 8 Gaming Apps Built A Botnet Of 3 Million Android Phones For #hackers https://t.co/U9Bq6VPmfD'
 _eglobaltech,Sec_Cyber<###>b'#cyber-security means empowering staff - right down to the caretaker https://t.co/22JmZp8gfp'
 _eglobaltech,Sec_Cyber<###>b"Hatem Hariri on Juniper Networks' new approach to security and SDSN https://t.co/m78rURtJNQ"
@@ -181,8 +183,6 @@ _eglobaltech,Sec_Cyber<###>b"Computer #hacking victims to receive up to 6000 com
 _eglobaltech,Sec_Cyber<###>b'New Firearm Licensing Authority Board Appointed https://t.co/m4fEaCd3rP'
 _eglobaltech,Sec_Cyber<###>b'The #cyber man v state #hackers https://t.co/DLyMgnwHOx'
 _eglobaltech,Sec_Cyber<###>b'Google Is Paying $1000 For Every #malware Or Security Issue Found On Popular Third-Party Apps https://t.co/hSh5tl3s1K'
-_eglobaltech,Sec_Cyber<###>b'Telangana: Niti Aayog calls for young blood to curb #cyber crimes https://t.co/wWhH6wg0uR'
-_eglobaltech,Sec_Cyber<###>b'Put mandatory Aadhaar linking with bank accounts on hold: Bank union https://t.co/ymTMr9pEqi'
 _eglobaltech,BillGates<###>b'Can you correctly identify these African countries on a map? Youll be surprised to learn what they have in common: https://t.co/cyPJ3Rbudk'
 _eglobaltech,BillGates<###>b"All kids in America should get a great education but some are left behind. Here's what were doing to help fix this. https://t.co/iyOJoc4ZIb"
 _eglobaltech,BillGates<###>b'After Ali Maow Maalin survived the only disease ever eradicated, he fought to end anotherhttps://t.co/T0cTtKWq2R'
@@ -303,84 +303,23 @@ _eglobaltech,gatesfoundation<###>b'Have 10 minutes? Take our October Social Medi
 _eglobaltech,gatesfoundation<###>b'RT @gatesfoundation:  These amazing girls and @Beyonce have us buzzing for #DayoftheGirl! WATCH, RT and tell us what #FreedomForGirls '
 _eglobaltech,gatesfoundation<###>b'Get inspired for #DayoftheGirl with these amazing stories from girls around the world. \nhttps://t.co/YUE2HOgHut https://t.co/vadJvrgrCZ'
 _eglobaltech,gatesfoundation<###>b'RT @melindagates: Hi, Im Sanita. Its an honour to take over Melindas account for #GirlsTakeover on #DayoftheGirl! https://t.co/TawPRDOW9z'
-_eglobaltech,FedRAMP<###>b'Check out our newest blog post about how CSPs benefit from the RAR and becoming FedRAMP Ready! https://t.co/sQqtpW66V2'
-_eglobaltech,FedRAMP<###>b"RT @MrFedRAMP: So proud to have @annaruthbeckman on our team - thanks to @FCWnow for recognizing all of the amazing work she's done for us!"
-_eglobaltech,FedRAMP<###>b"RT @jmillerWFED: Reporter's Notebook is out: @FedRAMP details concerns abt @usnistgov #cyber update; @DeptofDefense new mobile policy https"
-_eglobaltech,FedRAMP<###>b"We couldn't be more proud of our own #FCWRisingStar @annaruthbeckman! Check out Anna-Ruth's profile here: https://t.co/RJJgbhNHEz @FCWnow"
-_eglobaltech,FedRAMP<###>b'Check out our blog to learn about the 3 newest docs we created to share best practices for Agency Authorizations: https://t.co/9NdZJ4G9O8'
-_eglobaltech,FedRAMP<###>b'RT @HamiCloud: FedRAMP 3PAOs - Need some pointers on how to successfully prepare a RAR? Check out our new 300-G training module: https://t.'
-_eglobaltech,FedRAMP<###>b"We're excited to announce a new 300-level training series specially developed for 3PAOs! Check out our blog about it https://t.co/XR3CtL1cgR"
-_eglobaltech,FedRAMP<###>b"#FedRAMP has saved the government over $130M in just 5 years. That's a 221% Return on Investment (ROI)! https://t.co/ZMsMlqIl1H"
-_eglobaltech,FedRAMP<###>b'RT @USGSA: Just released: @FedRAMP Tailored Baseline for Cloud Service Providers! Learn about this streamlined process - https://t.co/wMdEs'
-_eglobaltech,FedRAMP<###>b"RT @Frank_Konkel: .@FedRAMPs Tailored Baseline is Here, and It's Way, Way Faster https://t.co/ilsFM29D4K via @nextgov"
-_eglobaltech,FedRAMP<###>b'Were excited to announce our release of the FedRAMP Tailored Baseline for CSPs with Low Impact SaaS Systems! https://t.co/kaSWM1qPFb'
-_eglobaltech,FedRAMP<###>b'RT @MrFedRAMP: We partnered with OMB and OFPP to put together some quick FAQs around acquisitions and @FedRAMP - check it out! https://t.co'
-_eglobaltech,FedRAMP<###>b'RT @MrFedRAMP: Great day of team building and scavenger hunting with the entire @FedRAMP team at the @NationalZoo today! #OneTeamOneDream #'
-_eglobaltech,FedRAMP<###>b'Check out our new FAQ resource developed w/ OMB that agencies can reference when developing their solicitation https://t.co/rVeFRgAAgF'
-_eglobaltech,FedRAMP<###>b'@HamiCloud and @SecureCloudio presenting FedRAMP to the Navy and industry earlier today! https://t.co/rhm7IzWsTV'
-_eglobaltech,FedRAMP<###>b'RT @HamiCloud: Congrats to @idme and their 3PAO @LunarlineInc for their successful partnership in getting ID.me Federal Identity Gateway to'
-_eglobaltech,FedRAMP<###>b"Today #FedRAMP is speaking at the Navy! If you're interested in having the FedRAMP PMO speak at your event, please contact info@fedramp.gov"
-_eglobaltech,FedRAMP<###>b'Thanks to @DOJ for your input on the ConMon process! @MikeCassidy #DOJ'
-_eglobaltech,FedRAMP<###>b"FedRAMP has saved the government over $130M in just 5 years! Did you know that's a 221% Return on Investment (ROI)? https://t.co/VxEg5f1HaC"
-_eglobaltech,FedRAMP<###>b"RT @fedrampashley: Take a look at NSF's #FedRAMP journey in issuing an Agency ATO in 4 months! Way to go! #OTOD! @MrFedRAMP @FedRAMP @ryanh"
-_eglobaltech,advertisingweek<###>b'Pay-to-Play Gets Redesigned in Fashion https://t.co/KoaTdvrJwK https://t.co/dH5REw0MM5'
-_eglobaltech,advertisingweek<###>b"Discussions on trust and transparency with the industry's best and brightest - the LinkedIn Trust Series https://t.co/KzNjuTtb5P"
-_eglobaltech,advertisingweek<###>b'Which Social Platform Has the Best Stories? All of Them https://t.co/MgdFqsYObR https://t.co/siTEfpSAi1'
-_eglobaltech,advertisingweek<###>b'Beyond the Blue Bar: The State of Location-Based Marketing for Advertisers https://t.co/l995vFVYJE https://t.co/mInUdkqtmJ'
-_eglobaltech,advertisingweek<###>b'Explore the best seminars + workshops from our AI &amp; Cognitive Computing Track at #AWNewYork 2017, presented by @IBM https://t.co/tu1X3wZGMy'
-_eglobaltech,advertisingweek<###>b'New Tech, New X? How to Create Next-Gen Experiences That Put People First https://t.co/7uCqRRDucw https://t.co/M93j6p8jFX'
-_eglobaltech,advertisingweek<###>b'Design Evolution: Geoffrey the Giraffe of ToysRUs https://t.co/VuydwkK6qM https://t.co/eAhqfT5fKZ'
-_eglobaltech,advertisingweek<###>b'Maintaining the Truth in Communications https://t.co/7ZH593KZ9P https://t.co/alLI1J1X5o'
-_eglobaltech,advertisingweek<###>b'How to Best Manage Working in a Virtual Agency Space https://t.co/fIlCsS32ep https://t.co/EbZLa6KtiK'
-_eglobaltech,advertisingweek<###>b'Preventing the Dreaded Holiday Churn https://t.co/boZTVVUwgy https://t.co/vfT8vmD2fT'
-_eglobaltech,advertisingweek<###>b'The 50-Day Interviewship https://t.co/2SpqFtmUSr https://t.co/g5WF7dl3cm'
-_eglobaltech,advertisingweek<###>b'Adobe, Vine(!) and Netflix all made headlines this week - read all about them and more, right here! https://t.co/C7bhICI30O'
-_eglobaltech,advertisingweek<###>b'Advertising Week &amp; PRHBTD Media present Branding Bud, a docuseries on the marketing of cannabis. Episode 1 out now https://t.co/IZxM4ioqs5'
-_eglobaltech,advertisingweek<###>b'The Impact of Live Social Content on Sports Marketing https://t.co/VNpuEP0zAc https://t.co/sofWPX68MD'
-_eglobaltech,advertisingweek<###>b'Pay-to-Play Gets Redesigned in Fashion https://t.co/KoaTdvrJwK https://t.co/3WCnnO4Voz'
-_eglobaltech,advertisingweek<###>b'Recognizing the Real TV Picture https://t.co/NRDtBm1eCM https://t.co/rdj0S1dWJn'
-_eglobaltech,advertisingweek<###>b"The biggest news in the industry, condensed into one easy-to-read article - it's the AW 5 for Friday! https://t.co/WjtPTMZt2R"
-_eglobaltech,advertisingweek<###>b"PRHBTD Media + Advertising Week present Branding Bud, a docuseries on the marketing of cannabis. Here's Episode 1! https://t.co/GnneTzACrS"
-_eglobaltech,advertisingweek<###>b'Why Media Planners Are Increasing their Investment in Social Video https://t.co/8OdLO7rHpE https://t.co/NyrhhTgRVF'
-_eglobaltech,advertisingweek<###>b'From #AWNewYork: Liz Wessel of @wayup on Perspectives with Katie Kempner https://t.co/Yyxo43NccL https://t.co/icD0dm3wUY'
-_eglobaltech,ArlingtonVABiz<###>b'Happy New Year!!!'
-_eglobaltech,routefifty<###>b'Congressional Republicans are showing increasing openness to eliminate the state and local tax deduction https://t.co/pUZxSnX97T'
-_eglobaltech,routefifty<###>b'Were keen on helping communities identify needs and break through barriers to care..." https://t.co/Tl9iWijQDo #Mentalhealth'
-_eglobaltech,routefifty<###>b"Here's why many state and local finance officials may have some bad heartburn https://t.co/pUZxSnX97T"
-_eglobaltech,routefifty<###>b'This is a disappointment for state and local elected and appointed officials. https://t.co/pUZxSnFygl'
-_eglobaltech,routefifty<###>b'Leading @routefifty: Funding mental health services with #marijuana sales in #Colorado https://t.co/FGpfOPxBuC https://t.co/oS4VQLBNQH'
-_eglobaltech,routefifty<###>b'RT @DaveNyczepir: Too often then politics of abortion get in the way of womens health." https://t.co/YVX6sc1PIB'
-_eglobaltech,routefifty<###>b'Around 15% of the U.S. population uses private wells but theyre largely unregulated https://t.co/2fB18Y4Efb #drinkingwater #arsenic'
-_eglobaltech,routefifty<###>b'Since the Great Recession, state tax revenue has been slower to rebound than after any of the 3 previous downturns. https://t.co/mLpjdqmiLt'
-_eglobaltech,routefifty<###>b'ICYMI: Coming soon to the streets of #NewYorkCity https://t.co/tvuQLKzVyb'
-_eglobaltech,routefifty<###>b'With Atlanta\'s #bikeshare system, "theres also this wonderful flexibility in our system." https://t.co/wVHFbhDgaK'
-_eglobaltech,routefifty<###>b'"Slow growth can make it hard for states to balance their budgets." https://t.co/DorkLEPDqp (via @PewStates) https://t.co/wZnaf8tqvp'
-_eglobaltech,routefifty<###>b'Leading @routefifty: Rolling out dockless bikeshare systems https://t.co/wVHFbhlFjc https://t.co/axQdjNIfuD'
-_eglobaltech,routefifty<###>b'"...[T]esting in New York will accelerate the timeline to deploying self-driving cars at scale. https://t.co/UVCJWYVDiL'
-_eglobaltech,routefifty<###>b'Behavioral science is changing how cities "design their policies, services and the moments of choice within them. https://t.co/sbiWVuKMED'
-_eglobaltech,routefifty<###>b'Mayors are continuing the fight on Capitol Hill to preserve the state and local tax deduction https://t.co/FktV709MAn'
-_eglobaltech,routefifty<###>b'California mayors are applauding a veto from Gov. Jerry Brown https://t.co/G6rAHhqvZn'
-_eglobaltech,routefifty<###>b'Leading @routefifty: Self-driving car tests in #NewYorkCity https://t.co/0rixRe8ul7 https://t.co/9OQ6Rdpp1M'
-_eglobaltech,routefifty<###>b'RT @PewStates: Using evidence, Ohio made sure it was investing in effective child abuse and neglect programs: https://t.co/GAEHlSVdwm #OHpol'
-_eglobaltech,routefifty<###>b'Fake service dogs "give real service dogs a bad name." https://t.co/cDP1XOEeLJ'
-_eglobaltech,routefifty<###>b"WATCH: Our #NASCIO17 interview with Washington state's CIO, Michael Cockrill https://t.co/allYxCXIuB https://t.co/dFy3KdXwv3"
-_eglobaltech,AMacOSTP<###>b"It has been such a privilege to serve with @USCTO for @POTUS. This is my last tweet from here, but I'll still be https://t.co/dyFrD89ml0"
-_eglobaltech,AMacOSTP<###>b'RT @CEAChair: My exit interview with @econjared https://t.co/0QTd3RAUrc'
-_eglobaltech,AMacOSTP<###>b'RT @ciodotgov: 18F co-founder, @aaronsnow, on why tech transcends party politics: https://t.co/J1MPHefcdi @18F @USGSA @Nextgov #ITtransform'
-_eglobaltech,AMacOSTP<###>b"RT @USDS: Two and a half years later, we're proud to reflect on where it all began: https://t.co/lDIIbpVOYY "
-_eglobaltech,AMacOSTP<###>b'RT @USDS: The U.S. Digital Service 2016 Report to Congress: a comprehensive rundown of our most important work to date. Read:  https://t.co'
-_eglobaltech,AMacOSTP<###>b'"The ACA is entrepreneurship." https://t.co/ZufDIQ8M12'
-_eglobaltech,AMacOSTP<###>b'@nancyscola @vj44 what you have access to also shapes how you think about IT/Internet in policy. Upgrading to what the public has helps.'
-_eglobaltech,AMacOSTP<###>b'RT @USCTO: Thank you America for the opportunity. Thank you @POTUS for your incredible leadership. #WeThePeople #ObamaFarewell #YesWeCan ht'
-_eglobaltech,AMacOSTP<###>b'RT @WhiteHouse: Ive watched you grow up, get married, have kids, and start incredible new journeys of your own. @POTUS on his staff thr'
-_eglobaltech,AMacOSTP<###>b'RT @WhiteHouse: Yes we can.\nYes we did.\nYes we can. @POTUS #ObamaFarewell https://t.co/aSukG7xJNq'
-_eglobaltech,AMacOSTP<###>b'Thank you for your comments re #dataportability. See a summary: https://t.co/JyTJPBKJdW or JSON of the comments https://t.co/2z2dBiqEqz'
-_eglobaltech,AMacOSTP<###>b'RT @whitehouseostp: How IARPA uses incentive prizes to solve hard, important problems at a fraction of the cost of traditional contracts ht'
-_eglobaltech,AMacOSTP<###>b'RT @Denis44: 100,000 Minnesotans have signed up 4 health coverage thru @MNsure, dontcha know.\n \nStill time to enroll? You betcha. https://t'
-_eglobaltech,AMacOSTP<###>b'RT @DJ44: As the President heads into his farewell address tonight, #YesWeCan https://t.co/4zXfQRzW2g https://t.co/we7ZIRdwmU'
-_eglobaltech,AMacOSTP<###>b"RT @MarcGroman: https://t.co/f0asS7A7O6 - it's about what we can do, not what we can't #privacy #data #trust https://t.co/Rr8jdsM5vY"
-_eglobaltech,AMacOSTP<###>b'More #EEOB beauty. https://t.co/jiJFhvIdRK'
-_eglobaltech,AMacOSTP<###>b'#YesWeCan see also https://t.co/35o6XQqGSn https://t.co/0zTc0V3ojX'
-_eglobaltech,AMacOSTP<###>b'From the weekend #EEOB https://t.co/FfdM4oKE1z'
-_eglobaltech,AMacOSTP<###>b'@patsiminnes yes'
-_eglobaltech,AMacOSTP<###>b'@EJWalters stay tuned.'
+_eglobaltech<###>b'Our eGT University Hackathon Challenge is well under way! Everyone is heads down.  #eGTHack https://t.co/HPfzBJWbKV https://t.co/ZoVS1Ks35A'
+_eglobaltech<###>b'Join us tonight at A-Town Bar in Arlington for our Cyber Hiring Happy Hour to talk about your future. Register at https://t.co/5M1l1dsXZ7'
+_eglobaltech<###>b'Join us tonight at A-Town Bar in Arlington for our cyber hiring happy hour to talk about your future. Register at - https://t.co/tDeX6Sn862'
+_eglobaltech<###>b"We're filling 20+ cyber jobs. Join us tomorrow to grab a drink and discuss our open positions. Register here - https://t.co/g8MUeqZJ5f"
+_eglobaltech<###>b'eGlobalTech is a great employer to  gain critical cyber experience. Learn more at https://t.co/HtT2RRFW53'
+_eglobaltech<###>b'Grow your cyber career with us! Learn more at our 9/19 Cyber Hiring Happy Hour. Register today at https://t.co/lushrOtjTO'
+_eglobaltech<###>b'Our cyber security practice is booming! Join us for our Cyber Hiring Happy Hour 9/19, register at https://t.co/twC6jjOArn'
+_eglobaltech<###>b'eGlobalTech is at the CMS IT Convergence conference today! Visit our table to learn about our automation tools. https://t.co/ThQv7CPpDX'
+_eglobaltech<###>b'We are migrating workloads to AWS - the DevOps way. Check out our latest case study - https://t.co/i8o2O8axh2'
+_eglobaltech<###>b'RT @rkadayam: A DevOps success story and the journey continues... @_eglobaltech @flat_world https://t.co/XKpHshtQZE'
+_eglobaltech<###>b'RT @rkadayam: A very interesting blockchain application looking to make transactive energy a reality - @gridplus_energy'
+_eglobaltech<###>b'RT @rkadayam: Long awaited @BlockChainDC conference finally here'
+_eglobaltech<###>b'RT @rkadayam: Stop by @_eglobaltech  table at @DevOpsDaysDC  to learn how #cloudamatic can accelerate your cloud migration'
+_eglobaltech<###>b'RT @DevOpsDaysDC: Great booth @_eglobaltech! https://t.co/bqm3TcEXaG'
+_eglobaltech<###>b'RT @rkadayam: Saving Disaster Management from Disaster through DevOps - great ignite talk by Peter Kessler @eGT_GIS @_eglobaltech https://t'
+_eglobaltech<###>b"RT @DevOpsDaysDC: Peter Kessler's Ignite Talk on disaster management https://t.co/AQwefCLr7D"
+_eglobaltech<###>b"Check out eGlobalTech's Peter @ the 1pm session on how DevOps saves a disaster management system! @DevOpsDaysDC https://t.co/J8DBm4yUYU"
+_eglobaltech<###>b"RT @mary_grace: you can't have a vibrant community unless you have diversity and inclusion. #truth -Gill Haus #DevOpsDays"
+_eglobaltech<###>b'RT @eGT_GIS: Pumped about my 1PM Ignite on DevOps empowering mission critical systems https://t.co/iFBtXuuOXh'
+_eglobaltech<###>b'RT @rkadayam: Hear our own Peter Kessler talk about Saving Disaster Management Environment using DevOps at @DevOpsDaysDC  Tue 1p. @eGT_GIS'

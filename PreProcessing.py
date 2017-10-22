@@ -16,6 +16,8 @@ import tweepy
 
 import codecs
 
+import operator
+
 ############################### Twitter ###############################
 
 consumer_key = "WPWjWNXmpNHNpcSqEs7n8swV4"
@@ -63,6 +65,11 @@ def translate(line):
 
 ############################### StopWords ###############################
 stop_words = set(stopwords.words('english'))
+stop_words.add('http')
+stop_words.add('brt')
+stop_words.add('amp')
+stop_words.add('rt')
+
 
 def stopRemToken(word_tokens):
     filtered_sentence = [w for w in word_tokens if not w in stop_words]
@@ -112,6 +119,7 @@ def clean(sentence):
     tokens = stopRemToken(tokens)
     tokens = stemToken(tokens)
     tokens = remSpec(tokens)
+    tokens = stopRemToken(tokens)
     return tokens
 
 def tokenToSet(tokens):
@@ -246,22 +254,52 @@ def newKeyword(input, keywords):
             wf.write(outStr)
     return
 
+def dicToList(dList):
+    sorted_x = sorted(dList.items(), key=operator.itemgetter(1))
+    return sorted_x
 
-outFile = 'tweetsList.txt'
-vectFile = 'vector.txt'
 
-zero = word_tokenize('_eglobaltech')
+def wordFreq(input, output):
+    lines = []
+    with open(input, 'r') as rf:
+        lines = rf.readlines()
+    D = {}
+    for line in lines:
+        tokens = (line.split('<###>'))[-1]
+        tokens = word_tokenize(tokens)
+        for token in tokens:
+            if token in D:
+                D[token] = D[token] + 1
+            else:
+                D[token] = 1
+    lines = dicToList(D)
+    with open(output, 'w') as wf:
+        for line in reversed(lines):
+            wf.write(str(line) + "\n")
+    return
 
-userSet = set()
 
-nlist = recursion(zero, outFile, userSet)
-# nlist = recursion(nList, outFile, userSet)
-recursionLevel2(nlist, outFile, userSet)
 
-keywords = 'internet technology security'
 
-readSergioFile(outFile, vectFile, keywords)
 
-keywords = 'internet technology security rt comment'
+# outFile = 'tweetsList.txt'
+# vectFile = 'vector.txt'
+# wordFreqFile = 'wordfreq.txt'
 
-newKeyword(vectFile, keywords)
+# zero = word_tokenize('_eglobaltech')
+
+# userSet = set()
+
+# nlist = recursion(zero, outFile, userSet)
+# # nlist = recursion(nList, outFile, userSet)
+# recursionLevel2(nlist, outFile, userSet)
+
+# keywords = 'internet technology security'
+
+# readSergioFile(outFile, vectFile, keywords)
+
+# keywords = 'internet technology security rt comment'
+
+# newKeyword(vectFile, keywords)
+
+# wordFreq(vectFile, wordFreqFile)
