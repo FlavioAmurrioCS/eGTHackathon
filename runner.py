@@ -1,23 +1,16 @@
-from stemmer import *
-from stopwords import *
-from synonyms import *
-#from twitter import *
-from translate import *
-from stemmer import*
+from PreProcessing import *
 
-
-comment = "The problem basically consists on this, we have created an Array of Object ArrayLists "
-stemSent(comment)
+tweet = "This book is such a life saver.  football vic It has been so helpful to be able to go back to track trends, answer pediatrician questions, or communicate with each other when you are up at different times of the night with a newborn.  I think it is one of those things that everyone should be required to have before they leave the hospital.  We went through all the pages of the newborn version, then moved to the infant version, and will finish up the second infant book (third total) right as our baby turns 1.  See other things that are must haves for baby at [...]"
+user_keywords = "football nfl vic"
 
 
 
-def clean(sentence):
-    sentence = translate(sentence)
-    sentence = str.lower(sentence)
-    words = word_tokenize(sentence)
-    words = stopRemToken(words)
-    words = stemToken(words)
-    words = remSpec(words)
-    return words
+ctweet = clean(tweet)
+stweet = tokenToSet(ctweet)
 
-print(clean(comment))
+key = clean(user_keywords)
+sKey = tokenToSet(key)
+
+
+print(jaccardIndex(stweet, sKey))
+
