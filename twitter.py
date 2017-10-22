@@ -1,8 +1,4 @@
-#  -*- coding: utf-8 -*-
-
 import tweepy
-
-from unicodedata import normalize
 
 import codecs
 
@@ -16,17 +12,6 @@ auth.set_access_token(access_token, access_token_secret)
 
 api = tweepy.API(auth)
 
-# user = api.get_user('twitter')
-
-# friends = user.friends()
-
-# api.statuses_lookup(friends)
-
-
-
-
-
-
 def getUser(userHandle):
     return api.get_user(userHandle)
 
@@ -38,7 +23,6 @@ def getUserFriends(userHandle):
         ret.append(friend.screen_name)
     return ret
 
-#returns list of tweets
 def getUserTimeline(userHandle):
     tweets = api.user_timeline(userHandle)
     ret = []
@@ -49,13 +33,13 @@ def getUserTimeline(userHandle):
 def appendToFile(filename, users):
     handle = users.split(',')[-1]
     tweets = getUserTimeline(handle)
-    with codecs.open(filename, 'a', encoding='utf8') as af:
+    with open(filename, 'a') as af:
         for tweet in tweets:
-            af.write(users + "<###>" + tweet + "\n")
+            out = tweet.replace('\n', ' ')
+            af.write(users + "<###>" + out + "\n")
     return
 
 userSet = set()
-levels = 2
 
 filename = "sergio.txt"
 zero = 'lifeguardsergio'
@@ -76,13 +60,3 @@ def recursion(friends, fileout, userSet):
 ty = recursion(zero, filename, userSet)
 ty = recursion(ty, filename,userSet)
     
-
-
-# for tweet in public_tweets:
-#     print (tweet.text)
-
-# user = api.get_user('twitter')
-
-
-# for friend in user.friends():
-#    print friend.screen_name
