@@ -1,32 +1,30 @@
 # TwitterConnections
 
-This windows application provides a simple way to search and analyse a network of twitter people.
+      This windows application provides a simple way to search and analyse a network of twitter people.
 
 ## Building it
 
-This project uses both python and c++.
+      This project uses both python and c++.
 
 ### Python
 
-1. Download and install the latest version of Python3 (https://www.python.org/downloads/)
-
+1. Download and install the latest version of Python3 (<https://www.python.org/downloads/>).
 2. Install the following python libraries with the command in the paranthesis:
-
--- googletrans 2.2.0 (pip install googletrans)
--- Tweepy (pip install tweepy)
--- nltk (sudo pip install -U nltk)
--- numpy (sudo pip install -U numpy)
--- If the above command don't work
-3. In order to use tweepy, one needs to get a API key, follow these instructions(from https://stackoverflow.com/a/12335636) :
--- Log into the Twitter Developers section.
---- If you don't already have an account, you can login with your normal Twitter credentials
--- Go to "Create an app"
--- Fill in the details of the application you'll be using to connect with the API
---- Your application name must be unique. If someone else is already using it, you won't be able to register your application until you can think of something that isn't being used.
--- Click on Create your Twitter application
--- Details of your new app will be shown along with your consumer key and consumer secret.
--- If you need access tokens, scroll down and click Create my access token
---- The page will then refresh on the "Details" tab with your new access tokens. You can recreate these at any time if you need to.
+      * googletrans 2.2.0 (pip install googletrans)
+      * Tweepy (pip install tweepy)
+      * nltk (sudo pip install -U nltk)
+      * numpy (sudo pip install -U numpy)
+      * If the above command don't work
+3. In order to use tweepy, one needs to get a API key, follow these instructions (from <https://stackoverflow.com/a/12335636>):
+      * Log into the Twitter Developers section.
+      * If you don't already have an account, you can login with your normal Twitter credentials
+      * Go to "Create an app"
+      * Fill in the details of the application you'll be using to connect with the API
+      * Your application name must be unique. If someone else is already using it, you won't be able to register your application until you can think of something that isn't being used.
+      * Click on Create your Twitter application
+      * Details of your new app will be shown along with your consumer key and consumer secret.
+      * If you need access tokens, scroll down and click Create my access token
+      * The page will then refresh on the "Details" tab with your new access tokens. You can recreate these at any time if you need to.
 4. Once you have the keys/tokens, place it in the PreProcessing.py (consumer_key, consumer_secret, access_token, access_token_secret)
 
 - On top of PreProcessing.py can find the libraries we imported.
