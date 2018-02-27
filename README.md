@@ -1,6 +1,6 @@
 # TwitterConnections
 
-This windows application provides a simple way to search and analyse a network of twitter people. An android version of this concept is underdevelopment at <https://github.com/FlavioAmurrioCS/TwitSet>
+This windows application provides a simple way to search and analyse a network of twitter people. Here is the **[presentation](./presentation.pdf)** of the project. An android version of this concept is underdevelopment at <https://github.com/FlavioAmurrioCS/TwitSet>
 
 ## Building it
 
@@ -8,14 +8,14 @@ This project uses both Python and C++.
 
 ### Python
 
-1. Download and install the latest version of Python3 (<https://www.python.org/downloads/>).
+1. Download and install the latest version of [Python3](<https://www.python.org/downloads/>).
 2. Install the following python libraries with the command in the parenthesis:
       * googletrans 2.2.0 (pip install googletrans)
       * Tweepy (pip install tweepy)
       * nltk (sudo pip install -U nltk)
       * numpy (sudo pip install -U numpy)
-      * If the above command don't work on Windows, download the binaries from <https://www.lfd.uci.edu/~gohlke/pythonlibs/> and install using the command **pip install [name of the file]**
-3. In order to use tweepy, one needs to get a API key, follow these instructions (from <https://stackoverflow.com/a/12335636>):
+      * If the above command don't work on Windows, download the binaries from [this site](https://www.lfd.uci.edu/~gohlke/pythonlibs/) and install using the command **pip install [name of the file]**
+3. In order to use tweepy, one needs to get a API key, follow these instructions (from [StackOverFlow](https://stackoverflow.com/a/12335636):
       * Log into the Twitter Developers section.
       * If you don't already have an account, you can login with your normal Twitter credentials
       * Go to "Create an app"
@@ -33,21 +33,22 @@ The GUI was built using Visual Studio 2015 and Qt. Install Visual Studio and the
 
 #### Qt 5.8
 
-1. It is a toolkit for creating Graphical User Interfaces (GUIs).
-2. It can be downloaded for free here: <http://download.qt.io/official_releases/online_installers/qtunified-windows-x86-online.exe>
-3. Run the downloaded executable to install the software.
+Qt is a toolkit for creating Graphical User Interfaces (GUIs).
+
+1. It can be downloaded for free [here](http://download.qt.io/official_releases/online_installers/qtunified-windows-x86-online.exe)
+2. Run the downloaded executable to install the software.
       * During the installation process, you’ll be asked to create a Qt login and password. Follow the directions and note it requires a strong password.
       * Use the default settings during installation.
       * Note, it might take a long time to install.
-4. Install Qt VS tools for VS 2015.
-      * It can be downloaded from: <http://download.qt.io/official_releases/vsaddin/qt-vs-toolsmsvc2015-2.0.0.vsix>
+3. Install Qt VS tools for VS 2015.
+      * Download it from this [link](http://download.qt.io/official_releases/vsaddin/qt-vs-toolsmsvc2015-2.0.0.vsix)
       * Run the downloaded file.
       * Run Qt 5.8 64 bit for Desktop (MSVC 2015).
       * Add Qt version 5.8 to Visual Studio
-5. Open Visual Studio 2015.
-6. Click on the Qt VS Tools > Qt Options > Qt Versions menu.
-7. Add a version named msvc2015_64 and give it path C:\Qt\5.8\msvc2015_64
-8. In the Default Qt/Win version: select the option you just added.
+4. Open Visual Studio 2015.
+5. Click on the Qt VS Tools > Qt Options > Qt Versions menu.
+6. Add a version named msvc2015_64 and give it path C:\Qt\5.8\msvc2015_64
+7. In the Default Qt/Win version: select the option you just added.
 
 ## How To Run It
 
@@ -77,7 +78,7 @@ Since the GUI and the preprocessing were done separately, after finishing the pr
 
 ### TODO
 
-* [x] Finish ReadMe.md
+* [x] Finish [README](./README.md)
 * [ ] Refactor code so that everything can be controlled from within the GUI application.
 * [ ] Finish Android version prototype
 
