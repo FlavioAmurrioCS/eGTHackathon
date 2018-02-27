@@ -29,7 +29,7 @@ This project uses both Python and C++.
 
 ### Visual Studio (C++)
 
-* The GUI was built using Visual Studio 2015 and Qt. Install Visual Studio and then install Qt using the following instructions. (There may be a new version of the software so it may be a bit different.)
+The GUI was built using Visual Studio 2015 and Qt. Install Visual Studio and then install Qt using the following instructions. (There may be a new version of the software so it may be a bit different.)
 
 #### Qt 5.8
 
@@ -81,4 +81,4 @@ Since the GUI and the preprocessing were done separately, after finishing the pr
 * [ ] Refactor code so that everything can be controlled from within the GUI application.
 * [ ] Finish Android version prototype
 
-# ***Note: Due to last semester of school, this project will be temporarily on hold.***
+## ***Note: Due to last semester of school, this project will be temporarily on hold.***
