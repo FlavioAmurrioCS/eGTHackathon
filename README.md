@@ -4,7 +4,7 @@ This windows application provides a simple way to search and analyse a network o
 
 ## Building it
 
-This project uses both python and c++.
+This project uses both Python and C++.
 
 ### Python
 
@@ -14,7 +14,7 @@ This project uses both python and c++.
       * Tweepy (pip install tweepy)
       * nltk (sudo pip install -U nltk)
       * numpy (sudo pip install -U numpy)
-      * If the above command don't work
+      * If the above command don't work on Windows, download the binaries from <https://www.lfd.uci.edu/~gohlke/pythonlibs/> and install using the command **pip install [name of the file]**
 3. In order to use tweepy, one needs to get a API key, follow these instructions (from <https://stackoverflow.com/a/12335636>):
       * Log into the Twitter Developers section.
       * If you don't already have an account, you can login with your normal Twitter credentials
@@ -81,4 +81,4 @@ Since the GUI and the preprocessing were done separately, after finishing the pr
 * [ ] Refactor code so that everything can be controlled from within the GUI application.
 * [ ] Finish Android version prototype
 
-# ***Note: Due to last semester of school, this project will be on hold temporarily.***
+# ***Note: Due to last semester of school, this project will be temporarily on hold.***
