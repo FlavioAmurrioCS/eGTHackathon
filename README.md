@@ -15,7 +15,7 @@ This project uses both Python and C++.
       * nltk (sudo pip install -U nltk)
       * numpy (sudo pip install -U numpy)
       * If the above command don't work on Windows, download the binaries from [this site](https://www.lfd.uci.edu/~gohlke/pythonlibs/) and install using the command **pip install [name of the file]**
-3. In order to use tweepy, one needs to get a API key, follow these instructions (from [StackOverFlow](https://stackoverflow.com/a/12335636):
+3. In order to use tweepy, one needs to get a API key, follow these instructions (from [StackOverFlow](https://stackoverflow.com/a/12335636)):
       * Log into the Twitter Developers section.
       * If you don't already have an account, you can login with your normal Twitter credentials
       * Go to "Create an app"
